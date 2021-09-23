@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @soethan99
 - 👀 I’m interested in Mobile Development
+-📚Currently learning Jetpack compose
+
 
 
 
