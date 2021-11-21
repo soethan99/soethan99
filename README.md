@@ -2,6 +2,9 @@
 - 👀 I’m interested in Mobile Development
 - 📚Currently learning Jetpack compose,Swift
 
+[![soethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=soethan99)](https://github.com/soethan99/github-readme-stats)
+
+
 
 
 
